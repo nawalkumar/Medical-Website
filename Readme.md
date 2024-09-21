@@ -2,4 +2,4 @@
 
 
 <br/>
-<img src="img/medical.gif" alt="video">
+
